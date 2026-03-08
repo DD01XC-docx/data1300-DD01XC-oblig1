@@ -4,4 +4,4 @@
 1. Python 3.10 or higher
 2. No external dependencies for Obligation 1
 
-## Author: Yevhenii Moskalenko
+## Author: Eivind Hansen
